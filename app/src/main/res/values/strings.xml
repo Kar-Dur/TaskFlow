@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nazwa_aplikacji">TaskFlow</string>
+    <string name="dodaj_zadanie">Dodaj zadanie</string>
+    <string name="tytul_zadania">Tytul *</string>
+    <string name="opis_zadania">Opis (opcjonalnie)</string>
+    <string name="poziom_waznosci">Poziom waznosci</string>
+    <string name="termin_wykonania">Termin wykonania</string>
+    <string name="brak_terminu">Brak terminu</string>
+    <string name="wybierz_date">Wybierz date</string>
+    <string name="wyczysc">Wyczysc</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="usun">Usun</string>
+    <string name="wskazowka_szukaj">Szukaj zadan...</string>
+    <string name="stan_pusty">Brak zadan. Dodaj pierwsze!</string>
+    <string name="pokaz_ukonczone">Pokaz ukonczone</string>
+</resources>

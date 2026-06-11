@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class com.taskflow.app.domain.model.** { *; }
+-keep class com.taskflow.app.data.local.** { *; }

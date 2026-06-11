@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="glowny">#6750A4</color>
+    <color name="glowny_ciemny">#4F378B</color>
+    <color name="drugorz">#625B71</color>
+    <color name="tlo">#232324</color>
+    <color name="powierzchnia">#313131</color>
+    <color name="tekst_glowny">#1C1B1F</color>
+    <color name="tekst_drugorz">#49454F</color>
+    <color name="obramowanie">#49454F</color>
+
+    <color name="kolor_niski">#34A853</color>
+    <color name="kolor_sredni">#FBBC04</color>
+    <color name="kolor_wysoki">#EA4335</color>
+</resources>
